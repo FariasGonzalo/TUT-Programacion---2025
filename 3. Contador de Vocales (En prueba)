@@ -1,0 +1,15 @@
+Algoritmo ContadorDePalabras
+	Definir Contador, i Como Real
+	//Mientras  Frase = Caracter
+	
+	//FinMientras
+	Escribir "Ingrese una palabra o frase"
+	Leer Frase
+	Contador <- Longitud(Frase)
+	
+	
+	Escribir "La frase o palabra " Frase " contiene " Contador letras
+	
+	
+	
+FinAlgoritmo
